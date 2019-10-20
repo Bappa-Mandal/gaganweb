@@ -1,0 +1,6 @@
+<button (click)="onApiFech()">Call Api</button>
+<p>{{fetchedDetails}}</p>
+
+<div class="d3-chart" #chart></div>
+<iframe width="420" height="345" [src]="fetchedDetails | safe">
+</iframe>

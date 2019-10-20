@@ -1,0 +1,3 @@
+Host git-codecommit.*.amazonaws.com
+  User APKA4LHY2AS36JVI24XB
+  IdentityFile ~/.ssh/codecommit_gagan
